@@ -20,6 +20,7 @@
 project = 'Sample Project'
 copyright = '2021'
 author = 'Samantha Simpson'
+master_doc = 'index'
 
 
 # -- General configuration ---------------------------------------------------
