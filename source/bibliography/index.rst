@@ -1,4 +1,4 @@
-Annotated Bibliogrpahy
+Annotated Bibliography
 ======================
 
 React – a JavaScript library for building user interfaces. (n.d.).
@@ -28,7 +28,7 @@ React made the job easier.
 R. (Director). (2019, October 25). React Conf 2019 Day 1 [Video file].
 Retrieved February 11, 2021, from https://www.youtube.com/watch?v=UxoX2faIgDQ
 
-This video is extremely long but gives a ton of detail on absolutley everything
+This video is extremely long but gives a ton of detail on absolutely everything
 you need to know about React. I did not watch the entire video,
 as it runs for nine hours, but I was able to skip through and watch bits
 and pieces. This conference video tells you everything from the basics
@@ -40,7 +40,7 @@ T. (2017). Fullstack React: The complete guide to ReactJS and friends.
 San Francisco, CA: Fullstack.io.
 
 This book is a great source for beginners in React and experts.
-I was able to get ahold of just the first chapter for a preview of it
+I was able to get a hold of just the first chapter for a preview of it
 but just from that chapter I was able to tell the rest of the book would
 be great for learners. The book has chapters over every aspect of React
 and could be used by anyone and everyone that is working with it.
