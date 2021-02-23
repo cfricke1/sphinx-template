@@ -7,8 +7,8 @@ Welcome to my project about React!
    :maxdepth: 1
    :caption: Contents:
 
-   bibliography/index
    chapter1/index
    chapter2/index
-
+   bibliography/index
+   outline/index
 
