@@ -35,9 +35,10 @@ development tools.
   * Screenshot
 
 * Point 5: Examples of where react is used/other reasons why people use it [#f1]_
+
   * Websites using React
   * Companies Using React
-  *
+  * Other Reasons it is used
   * Code Examples
   * Screenshots
 
