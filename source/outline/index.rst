@@ -38,9 +38,22 @@ development tools.
 
   * Websites using React
   * Companies Using React
+  * Quotes from users
   * Other Reasons it is used
   * Code Examples
   * Screenshots
+
+* Future of React
+
+  * Plans for future
+  * Future Conferences
+  * Improvements coming
+  * Quotes from Devs
+
+* Conclusion
+  * Reiterate thesis
+  * Touch on main points
+  * Closing Sentence about React
 
 .. [#f1] React – a JavaScript library for building user interfaces. (n.d.). Retrieved February 11, 2021, from https://reactjs.org/
 .. [#f2] Aggarwal, S. (2018). Modern Web-Development using ReactJS. International Journal of Recent Research Aspects, 5(1), 133–137.
