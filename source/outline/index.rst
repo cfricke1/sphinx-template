@@ -51,6 +51,7 @@ development tools.
   * Quotes from Devs
 
 * Conclusion
+
   * Reiterate thesis
   * Touch on main points
   * Closing Sentence about React
