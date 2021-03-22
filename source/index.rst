@@ -11,4 +11,5 @@ Welcome to my project about React!
    chapter2/index
    bibliography/index
    outline/index
+   expandedreport/index
 
