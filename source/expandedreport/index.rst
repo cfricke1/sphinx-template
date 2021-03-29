@@ -17,7 +17,7 @@ Many people believed that React was actually a step backward for the company, bu
 as people started to work with it and Jordan started to make some small changes,
 people started to get on board. One of the best things that happened to React early
 on was in December of 2013. During this time, David Nolen introduced OM which is
-based on React and basically explained how awesome React is. This statement helped
+based on React and basically explained how awesome React is. The release of OM helped
 many early adopters want to use it and boosted the number of people who even knew
 it was a thing. [#f1]_
 
