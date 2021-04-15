@@ -1,9 +1,6 @@
 What is React?
 ======================
 
-The Beginning
--------------
-
 The idea for React first came into discussion when Facebook developers realized
 they were running into issues with code maintenance. As Facebook began to grow as
 a company and started to gain a lot of new users, they needed to hire a lot more
