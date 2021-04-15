@@ -1,7 +1,7 @@
 What is React?
 ======================
 
-The idea for React first about when Facebook developers realized
+The idea for React first came about when Facebook developers realized
 they were running into issues with code maintenance. As Facebook began to grow as
 a company and started to gain new users, they needed to hire more
 people to help push out more updates to keep the app running smoothly. After a
