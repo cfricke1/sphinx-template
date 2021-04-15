@@ -51,6 +51,8 @@ The input data that is being passed into the component is being accessed by rend
 via this.props.
 
 .. code-block:: JavaScript
+    :linenos:
+    :caption: Code to print Hello World
 
         class HelloMessage extends React.Component {
           render() {
@@ -73,6 +75,8 @@ and frameworks. This example uses **remarkable**, an external Markdown library, 
 convert the <textarea>’s value in real time.
 
 .. code-block:: JavaScript
+    :linenos:
+    :caption: Code to connect to an external library
 
         class MarkdownEditor extends React.Component {
           constructor(props) {
