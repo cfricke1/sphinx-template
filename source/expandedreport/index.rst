@@ -1,17 +1,18 @@
 What is React?
 ======================
 
-The idea for React first came into discussion when Facebook developers realized
+The idea for React first about when Facebook developers realized
 they were running into issues with code maintenance. As Facebook began to grow as
-a company and started to gain a lot of new users, they needed to hire a lot more
-people and push out a lot more updates to keep the app running smoothly. After a
+a company and started to gain new users, they needed to hire more
+people to help push out more updates to keep the app running smoothly. After a
 while however, the engineers just couldn't keep up with everything and had to come
 up with a better solution. That was the beginning of React and the beginning of one
 of the best mobile app/website development programs today.
 
-In 2011, Jordan Walke created FaxJS which was the earliest prototype of React.
+In 2011, Jordan Walke, a software engineer for Facebook, created FaxJS which was
+the earliest prototype of React.
 Just a few short years after Jordan created FaxJS, Facebook acquired Instagram
-and increased their number of users substantially. In response to this aquisiton,
+and increased their number of users substantially. Soon after this aquisiton,
 Jordan Walke introduced React to the world as it became open sourced. React did
 not get the reaction that most people at Facebook had probably expected though.
 Many people believed that React was actually a step backward for the company, but
