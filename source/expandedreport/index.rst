@@ -18,10 +18,11 @@ not get the reaction that most people at Facebook had probably expected though.
 Many people believed that React was actually a step backward for the company, but
 as people started to work with it and Jordan started to make some small changes,
 people started to get on board. One of the best things that happened to React early
-on was in December of 2013. During this time, David Nolen introduced OM which is
-based on React and basically explained how awesome React is. The release of OM helped
-many early adopters want to use it and boosted the number of people who even knew
-it was a thing. [#f1]_
+on was in December of 2013. During this time, David Nolen introduced OM, which is
+a Javascript Model-View-Controller (MVC) Framework based on React, and basically
+explained in his blogs about how awesome React is. The release of OM helped many
+early adopters want to use it and boosted the number of people who even knew it
+was a thing. [#f1]_
 
 Declarative Views
 -----------------
